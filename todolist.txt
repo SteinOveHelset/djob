@@ -1,0 +1,40 @@
+Todo list
+
+-DONE Set up the frontend
+    -DONE Create an empty project
+    -DONE Make sure you can run the project
+    -DONE Install Pinia
+    -DONE Install tailwind
+-DONE Set up a simple layout (menu, footer, etc)
+-DONE Create a static frontpage
+-DONE Create a static browse page
+-DONE Create a static detail page
+-DONE Create a static log in page
+-DONE Create a static sign up page
+-DONE Create a static page for creating jobs
+-DONE Create static page for “my jobs”
+-DONE A job position should be a component
+-DONE Implement state management for users
+-DONE When authenticated, replace footer buttons with “create job” button
+-DONE Set up the backend
+    -DONE Create virtual environment, install Django, Django Rest Framework, Cors headers and Djoser
+    -DONE Create an empty Django project
+    -DONE Configure the settings and urls.py
+-DONE Create app for jobs
+-DONE Set up database models
+-DONE Make front page dynamic
+    -DONE Serializer
+    -DONE View
+    -DONE Frontend
+-DONE Make detail dynamic (Separate serializer with more data)
+-DONE Make browse dynamic
+-DONE Make it possible to sign up
+-DONE Make it possible to log in
+-DONE Initialize the user store after refresh
+-DONE Make it possible to log out
+-DONE Show your jobs
+-DONE Make it possible to create a job
+-DONE Make it possible to delete job
+-DONE Make it possible to edit a job
+-DONE Implement meta data on pages
+-Summary
